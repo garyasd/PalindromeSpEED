@@ -356,7 +356,7 @@ void PalindromeMasked(char* S){
 
 int main(int argc, char *argv[]){
     CommandLineParser parser;
-    parser.addAuthorInformation("PalindromeMasked, author:Gary Zheng\nTo generate a optimal palindrome spaced seed for maskedPangenie");
+    parser.addAuthorInformation("PalindromeMasked, author:Gary Zheng\nTo generate a highly sensitive palindrome spaced seed.");
     parser.addArgument('l', "Masked seeds length(default: 51)", "51");
     parser.addArgument('N', "Length of the homology region(default: 76)", "76");
     parser.addArgument('w', "Masked seeds weight for \"care\" positions(default: 31)", "31");
