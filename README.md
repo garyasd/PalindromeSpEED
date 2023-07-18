@@ -9,5 +9,5 @@ Options:
 -t:  Iterative tries(default: 5000)
 -w:  Spaced seed weight for "care position"(default: 31)
 
-command: PalindromeMasked [Options]
+Command: PalindromeMasked [Options]
 ```
